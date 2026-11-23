@@ -29,18 +29,18 @@ Excel VBAおよびUserFormを使用した入力チェック処理の学習を目
 <img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/%E2%91%A0%E3%83%A1%E3%82%A4%E3%83%B3%E7%94%BB%E9%9D%A2.png width="450">
 
 ### ②正常入力画面
-<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/%E2%91%A1%E6%AD%A3%E5%B8%B8%E5%85%A5%E5%8A%9B.png width="600">
+<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/%E2%91%A1%E6%AD%A3%E5%B8%B8%E5%85%A5%E5%8A%9B.png width="450">
 
 ### ③エラー表示画面
-<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/%E2%91%A2%E3%82%A8%E3%83%A9%E3%83%BC%E8%A1%A8%E7%A4%BA.png width="700">
+<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/%E2%91%A2%E3%82%A8%E3%83%A9%E3%83%BC%E8%A1%A8%E7%A4%BA.png width="450">
 
 ## コード抜粋①
 ### 入力チェック処理
-<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/Code%E6%8A%9C%E7%B2%8B%E2%91%A0.png width="900">
+<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/Code%E6%8A%9C%E7%B2%8B%E2%91%A0.png width="450">
 
 ## コード抜粋②
 ### メールアドレス形式判定
-<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/Code%E6%8A%9C%E7%B2%8B%E2%91%A1.png width="700">
+<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/Code%E6%8A%9C%E7%B2%8B%E2%91%A1.png width="800">
 
 ## 工夫したポイント
 - TrimおよびStrConv(vbNarrow)による入力値の正規化を実施
