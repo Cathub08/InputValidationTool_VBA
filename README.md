@@ -29,10 +29,10 @@ Excel VBAおよびUserFormを使用した入力チェック処理の学習を目
 <img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/%E2%91%A0%E3%83%A1%E3%82%A4%E3%83%B3%E7%94%BB%E9%9D%A2.png width="440">
 
 ### ②正常入力画面
-<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/%E2%91%A1%E6%AD%A3%E5%B8%B8%E5%85%A5%E5%8A%9B.png width="470">
+<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/%E2%91%A1%E6%AD%A3%E5%B8%B8%E5%85%A5%E5%8A%9B.png width="490">
 
 ### ③エラー表示画面
-<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/%E2%91%A2%E3%82%A8%E3%83%A9%E3%83%BC%E8%A1%A8%E7%A4%BA.png width="470">
+<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/%E2%91%A2%E3%82%A8%E3%83%A9%E3%83%BC%E8%A1%A8%E7%A4%BA.png width="490">
 
 ## コード抜粋①
 ### 入力チェック処理
