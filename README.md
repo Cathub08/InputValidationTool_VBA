@@ -26,7 +26,7 @@ Excel VBAおよびUserFormを使用した入力チェック処理の学習を目
 
 ## 画面イメージ・操作手順
 ### ①メイン画面
-<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/%E2%91%A0%E3%83%A1%E3%82%A4%E3%83%B3%E7%94%BB%E9%9D%A2.png width="800">
+<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/%E2%91%A0%E3%83%A1%E3%82%A4%E3%83%B3%E7%94%BB%E9%9D%A2.png width="600">
 
 ### ②正常入力画面
 <img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/%E2%91%A1%E6%AD%A3%E5%B8%B8%E5%85%A5%E5%8A%9B.png width="600">
