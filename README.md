@@ -45,7 +45,7 @@ Excel VBAおよびUserFormを使用した入力チェック処理の学習を目
 ## 工夫したポイント
 - TrimおよびStrConv(vbNarrow)による入力値の正規化を実施
 - StrConv(vbNarrow)では変換できない全角ハイフンが存在するため、
-  UserForm上へ注釈ラベルを常時表示し、
+  UserForm上へ注釈ラベルを常時表示し、  
   ハイフン入力時は半角「-」を使用するよう案内している
 - 各入力項目ごとにエラーメッセージを個別表示
 - VBScript.RegExpを利用した形式判定を実装
