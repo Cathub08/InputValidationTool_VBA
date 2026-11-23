@@ -36,11 +36,11 @@ Excel VBAおよびUserFormを使用した入力チェック処理の学習を目
 
 ## コード抜粋①
 ### 入力チェック処理
-<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/Code%E6%8A%9C%E7%B2%8B%E2%91%A0.png width="500">
+<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/Code%E6%8A%9C%E7%B2%8B%E2%91%A0.png width="520">
 
 ## コード抜粋②
 ### メールアドレス形式判定
-<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/Code%E6%8A%9C%E7%B2%8B%E2%91%A1.png width="1100">
+<img src=https://github.com/Cathub08/InputValidationTool_VBA/blob/main/images/Code%E6%8A%9C%E7%B2%8B%E2%91%A1.png width="1300">
 
 ## 工夫したポイント
 - TrimおよびStrConv(vbNarrow)による入力値の正規化を実施
